@@ -1,0 +1,10 @@
+[ 1250.171206] audit: type=1400 audit(1467767552.496:8): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/sbin/dhclient" pid=712 comm="apparmor_parser"
+[ 1250.171225] audit: type=1400 audit(1467767552.496:9): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=712 comm="apparmor_parser"
+[ 1250.171235] audit: type=1400 audit(1467767552.496:10): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=712 comm="apparmor_parser"
+[ 1250.172151] audit: type=1400 audit(1467767552.496:11): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=712 comm="apparmor_parser"
+[ 1252.529162] init: plymouth-upstart-bridge main process ended, respawning
+[ 1521.916690] e1000: eth0 NIC Link is Down
+[ 1527.920044] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[ 1721.446078] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[ 1721.449026] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[ 1721.449160] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready

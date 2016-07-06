@@ -1,0 +1,76 @@
+    1  sudo apt-get install git
+    2  git config --global user.email "luisfelipe.arias@yahoo.com"
+    3  git config --global user.email
+    4  git config --global user.email "felipe"
+    5  git config --global user.email
+    6  git config --global user.email "luisfelipe.arias@yahoo.com"
+    7  git config --global user.name "felipe"
+    8  ls
+    9  ls}
+   10  pwd
+   11  ls
+   12  mkdir LXS2
+   13  LS
+   14  ls
+   15  cd LXS2/
+   16  mkdir tareas
+   17  mkdir src
+   18  mkdir misc
+   19  mkdir pwd
+   20  rm pwd
+   21  rm -rf  pwd
+   22  ls
+   23  sudo apt-get install  tree
+   24  touch misc/file1
+   25  touch src/file1
+   26  touch tareas/file1
+   27  tree
+   28  pwd
+   29  vim .gitignore
+   30  git init
+   31  ls -la
+   32  tree .git
+   33  git status
+   34  git add .gitignore 
+   35  git add misc
+   36  git add src
+   37  git add tareas
+   38  git status
+   39  touch misc/file2
+   40  tree
+   41  git status
+   42  git add misc/file2 
+   43  git commit -m "Commit Inicial del arbol de desarrollo"
+   44  ls -l
+   45  git commit
+   46  git status
+   47  git log
+   48  dmesg
+   49  dmesg | less
+   50  dmesg | tail 
+   51  dmesg | tail > 
+   52  cat misc/file
+   53  git add misc/file1 
+   54  dmesg | tail > misc/file2
+   55  git add misc/file2
+   56  git status
+   57  git commit -m "Modificacion de archivos en mis"
+   58  git log
+   59  git remote add origin https://github.com/felipeale/LXS2_farias.git
+   60  git remote -v 
+   61  git remote git push -u origin master
+   62  git push -u origin master
+   63  cd /tmp/
+   64  ls
+   65  git clone -b master https://github.com/felipeale/LXS2_farias.git
+   66  ls
+   67  pwd
+   68  cd ..
+   69  ls
+   70  cd LXS2/
+   71  history > history/history_05072015
+   72  history
+   73  history > history/history_05072015
+   74  ls
+   75  mkdir history
+   76  history > history/history_05072015

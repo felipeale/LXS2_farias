@@ -1,0 +1,39 @@
+    1  nmap 10.124.18.129
+    2  ifconfig 
+    3  nmap localhost
+    4  sudo fdisk -l
+    5  sudo fdisk -l | less
+    6  sudo fdisk -l
+    7  sudo su -
+    8  ls
+    9  ls' l
+   10  ls
+   11  sudo su -
+   12  cd /tmp/
+   13  ls
+   14  mkdir algo
+   15  ls
+   16  cd algo/
+   17  ls
+   18  touch file}
+   19  touch file{1,2,3,4}
+   20  ls
+   21  ls -l
+   22  touch file{casa,perro,gato}
+   23  ls -l
+   24  touch {casa,perro,gato}
+   25  ls -l
+   26* cd LXS2_evargas/
+   27  man lvcreate 
+   28  id 
+   29  ls
+   30  tree LXS2_evargas/
+   31  sudo apt-get install tree
+   32  tree LXS2_evargas/
+   33  cd LXS2_evargas/
+   34  ls
+   35  cd history/
+   36  l;s
+   37  ls
+   38  ls -l
+   39  history > history_12072016_$HOSTNAME

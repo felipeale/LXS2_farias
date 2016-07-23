@@ -1,0 +1,10 @@
+[ 1893.572946] init: upstart-socket-bridge main process (6104) terminated with status 1
+[ 1893.572957] init: upstart-socket-bridge main process ended, respawning
+[ 1893.573353] init: upstart-file-bridge main process (6106) terminated with status 1
+[ 1893.573364] init: upstart-file-bridge main process ended, respawning
+[ 1971.992178] audit_printk_skb: 129 callbacks suppressed
+[ 1971.992184] audit: type=1400 audit(1469236104.578:76): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=6730 comm="apparmor_parser"
+[ 1971.992196] audit: type=1400 audit(1469236104.578:77): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=6730 comm="apparmor_parser"
+[ 1971.992737] audit: type=1400 audit(1469236104.578:78): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=6730 comm="apparmor_parser"
+[ 2499.612474] CE: hpet increased min_delta_ns to 20115 nsec
+[ 3172.774892] perf interrupt took too long (2522 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
